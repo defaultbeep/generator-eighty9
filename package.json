@@ -1,0 +1,23 @@
+{
+  "name": "eighty9",
+  "version": "1.0.0",
+  "description": "Lightweight, simple folder structure for websites",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "eighty9"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Jonathan Goodman",
+  "license": "ISC"
+}
