@@ -1,0 +1,26 @@
+{
+  "name": "generator-eighty9",
+  "version": "1.0.6",
+  "description": "Lightweight, simple folder structure for websites",
+  "homepage": "",
+  "author": {
+    "name": "Jonathan Goodman",
+    "email": "jonathanalbangoodman@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "app"
+  ],
+  "main": "app/index.js",
+  "keywords": [
+    "web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanalbangoodman/generator-eighty9"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
