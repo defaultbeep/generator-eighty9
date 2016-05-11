@@ -20,7 +20,8 @@
     "url": "https://github.com/jonathanalbangoodman/generator-eighty9"
   },
   "license": "UNLICENSED",
-  "dependencies": {
-    "yeoman-generator": "^0.22.5"
+  "dependencies": {},
+  "devDependencies": {
+    "yeoman-generator": "^0.23.3"
   }
 }
